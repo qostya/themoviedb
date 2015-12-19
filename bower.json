@@ -1,0 +1,11 @@
+{
+  "name": "themoviedb api using",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "angular": "angular#1.5.0-rc.0",
+    "angular-ui-router": "~0.2.15",
+    "jquery": "~1.2.x",
+    "lodash": "~3.10.1"
+  }
+}
